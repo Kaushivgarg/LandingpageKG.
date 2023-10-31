@@ -1,1 +1,1 @@
-# LandingpageKG.
+# LandingPage
